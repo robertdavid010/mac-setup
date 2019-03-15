@@ -3,4 +3,4 @@
 
 Handy initializations and configurations.
 
-(Enable visual studio to shell path)[https://stackoverflow.com/questions/30065227/run-open-vscode-from-mac-terminal]
+[Enable visual studio to shell path](https://stackoverflow.com/questions/30065227/run-open-vscode-from-mac-terminal)
